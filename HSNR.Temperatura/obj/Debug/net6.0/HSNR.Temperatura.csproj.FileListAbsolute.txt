@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\bin\Debug\net6.0\HSNR.Temperatura.deps.json
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\bin\Debug\net6.0\HSNR.Temperatura.dll
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\bin\Debug\net6.0\HSNR.Temperatura.pdb
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\HSNR.Temperatura.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\HSNR.Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\HSNR.Temperatura.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\HSNR.Temperatura.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\HSNR.Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\HSNR.Temperatura.dll
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\refint\HSNR.Temperatura.dll
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\HSNR.Temperatura.pdb
+C:\Users\MINEDUCYT\Documents\c#\HSNR\HSNR.Temperatura\obj\Debug\net6.0\ref\HSNR.Temperatura.dll
